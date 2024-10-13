@@ -1,0 +1,3281 @@
+{
+  Anomalies: [
+    {
+      EffectiveRadius: 1164.01
+      Id: d50db2e0-d159-4bce-b4ba-5649c1d3c80c
+      Radius: 36.36
+      Strength: -1025
+      Velocity: {
+        X: -66.51
+        Y: -44.45
+      }
+      X: 961
+      Y: 205
+    }
+    {
+      EffectiveRadius: 1361.38
+      Id: 2f76ade3-d7d0-4084-a5a4-2909a9f0ca55
+      Radius: 42.79
+      Strength: -1012
+      Velocity: {
+        X: -42.72
+        Y: 67.64
+      }
+      X: 2214
+      Y: 5259
+    }
+    {
+      EffectiveRadius: 996.2
+      Id: 4ee8ffbe-6749-421c-84c6-f7ebf1e918e1
+      Radius: 31.25
+      Strength: -1016
+      Velocity: {
+        X: -52.66
+        Y: 60.23
+      }
+      X: 74
+      Y: 3275
+    }
+    {
+      EffectiveRadius: 954.55
+      Id: 3cc4f99a-739f-4236-8a11-5f54dc284164
+      Radius: 30.17
+      Strength: -1001
+      Velocity: {
+        X: 45.53
+        Y: 65.78
+      }
+      X: 6033
+      Y: 2317
+    }
+    {
+      EffectiveRadius: 1509.8
+      Id: 2cfd6371-7365-4b3a-b1c3-2a2e68708488
+      Radius: 49.48
+      Strength: 931
+      Velocity: {
+        X: 71.61
+        Y: 35.66
+      }
+      X: 7060
+      Y: 8776
+    }
+    {
+      EffectiveRadius: 1790.29
+      Id: 4558c509-4424-4c42-87c2-9c8ad5b2a9e7
+      Radius: 57.28
+      Strength: 977
+      Velocity: {
+        X: -12.58
+        Y: -66.97
+      }
+      X: 5409
+      Y: 4441
+    }
+    {
+      EffectiveRadius: 2000.54
+      Id: d02b58f6-3b42-4e55-b55f-9414b5f03fe7
+      Radius: 30.56
+      Strength: -4284
+      Velocity: {
+        X: 29.11
+        Y: -64
+      }
+      X: 8093
+      Y: 674
+    }
+    {
+      EffectiveRadius: 1356.41
+      Id: eea3619e-051e-4b61-98b8-6afd93277584
+      Radius: 43.42
+      Strength: 976
+      Velocity: {
+        X: -28.4
+        Y: 74.79
+      }
+      X: 4151
+      Y: 4257
+    }
+    {
+      EffectiveRadius: 1947.8
+      Id: 0b2d6c4e-ec7b-469a-a680-36a34c8704cc
+      Radius: 58.76
+      Strength: 1099
+      Velocity: {
+        X: 11.17
+        Y: 44.22
+      }
+      X: 6013
+      Y: 3806
+    }
+    {
+      EffectiveRadius: 1756.09
+      Id: 9bb0b3d7-e68b-4a85-8f51-078bf5810793
+      Radius: 54.32
+      Strength: -1045
+      Velocity: {
+        X: -58.05
+        Y: 55.04
+      }
+      X: 7352
+      Y: 6833
+    }
+    {
+      EffectiveRadius: 1490.5
+      Id: d6bdf497-11a5-4ea7-86ca-e1e4077482b8
+      Radius: 45.67
+      Strength: 1065
+      Velocity: {
+        X: -38.73
+        Y: -63.1
+      }
+      X: 2790
+      Y: 9655
+    }
+    {
+      EffectiveRadius: 1469.72
+      Id: ce4bb039-5005-482a-a612-c82640fa530c
+      Radius: 46.04
+      Strength: 1019
+      Velocity: {
+        X: -11.88
+        Y: 41.93
+      }
+      X: 3395
+      Y: 6907
+    }
+    {
+      EffectiveRadius: 1692.92
+      Id: 1555609b-2923-4f0c-827b-5ed7048d7dd3
+      Radius: 51.78
+      Strength: -1069
+      Velocity: {
+        X: 48.15
+        Y: -21.03
+      }
+      X: 3478
+      Y: 1740
+    }
+    {
+      EffectiveRadius: 1760.35
+      Id: 4df07075-59d6-425a-a2e7-cc730b804e8c
+      Radius: 54.82
+      Strength: -1031
+      Velocity: {
+        X: -54.38
+        Y: 58.68
+      }
+      X: 2703
+      Y: -1392
+    }
+    {
+      EffectiveRadius: 1115.43
+      Id: e20268d6-f4a2-43d7-b48d-5d6c95f0c98f
+      Radius: 35.52
+      Strength: -986
+      Velocity: {
+        X: -68.67
+        Y: 14.71
+      }
+      X: 9998
+      Y: 4235
+    }
+    {
+      EffectiveRadius: 1951.31
+      Id: 72070934-dd0c-4820-b77d-bb5590f20204
+      Radius: 59.49
+      Strength: -1076
+      Velocity: {
+        X: -42.76
+        Y: -67.61
+      }
+      X: 1034
+      Y: 7156
+    }
+    {
+      EffectiveRadius: 1636.46
+      Id: 2b233be6-2a49-4765-b69d-b113cc508d05
+      Radius: 51.88
+      Strength: -995
+      Velocity: {
+        X: 40.52
+        Y: 56.53
+      }
+      X: 10197
+      Y: 7777
+    }
+    {
+      EffectiveRadius: 2291.14
+      Id: 4d591d54-a4f9-4624-b2a6-348d329117f5
+      Radius: 36.95
+      Strength: -3844
+      Velocity: {
+        X: -35.32
+        Y: -61.09
+      }
+      X: 1198
+      Y: 6100
+    }
+    {
+      EffectiveRadius: 1706.78
+      Id: ec78b51f-e094-495f-bdd8-cade399f92fd
+      Radius: 54.94
+      Strength: -965
+      Velocity: {
+        X: -29.21
+        Y: -41.11
+      }
+      X: 1992
+      Y: 6868
+    }
+    {
+      EffectiveRadius: 1793.51
+      Id: 8a347831-770e-47c8-9d45-4b64442a366d
+      Radius: 59.36
+      Strength: 913
+      Velocity: {
+        X: 59.42
+        Y: 53.57
+      }
+      X: 447
+      Y: 5504
+    }
+    {
+      EffectiveRadius: 105.78
+      Id: 299721ca-bd08-4cf2-8dd8-63fbffd6bc3d
+      Radius: 105.78
+      Strength: 0
+      Velocity: {
+        X: -20.26
+        Y: 57.18
+      }
+      X: 2618
+      Y: 7736
+    }
+    {
+      EffectiveRadius: 1546.42
+      Id: 0b584b5f-bd52-4e93-b66d-f8c10adff4d8
+      Radius: 48.44
+      Strength: 1019
+      Velocity: {
+        X: 46.31
+        Y: 65.23
+      }
+      X: 8770
+      Y: 7221
+    }
+    {
+      EffectiveRadius: 1114.76
+      Id: 618e26dc-4682-4bfd-bd59-4593053079ea
+      Radius: 35.22
+      Strength: -1002
+      Velocity: {
+        X: 40.43
+        Y: -43.39
+      }
+      X: 6310
+      Y: 7018
+    }
+    {
+      EffectiveRadius: 107.03
+      Id: 06282e42-5152-4d12-8ca0-7dc4caa28a5a
+      Radius: 107.03
+      Strength: 0
+      Velocity: {
+        X: -1.14
+        Y: 51.18
+      }
+      X: 4797
+      Y: 4401
+    }
+    {
+      EffectiveRadius: 1151.64
+      Id: 4ff9bf4d-a546-4494-9341-ed9645a06fb7
+      Radius: 35.37
+      Strength: -1060
+      Velocity: {
+        X: 55.56
+        Y: 57.56
+      }
+      X: 9826
+      Y: 2405
+    }
+    {
+      EffectiveRadius: 1840.62
+      Id: 8602ca9e-deab-4220-89dc-c55a057690b5
+      Radius: 56.45
+      Strength: -1063
+      Velocity: {
+        X: -0.14
+        Y: -42.97
+      }
+      X: 2635
+      Y: 7883
+    }
+    {
+      EffectiveRadius: 1412.11
+      Id: 91039ac9-2af5-47e1-9e3d-fc5555df6a9e
+      Radius: 42.65
+      Strength: 1096
+      Velocity: {
+        X: -60.73
+        Y: -1.54
+      }
+      X: 9175
+      Y: 2778
+    }
+    {
+      EffectiveRadius: 1664.07
+      Id: 03f26d22-9cad-4814-8206-9997889172ee
+      Radius: 54.3
+      Strength: -939
+      Velocity: {
+        X: 34.38
+        Y: -47.01
+      }
+      X: 5978
+      Y: 10490
+    }
+    {
+      EffectiveRadius: 963.89
+      Id: 7355f710-e517-4a64-8e31-32c14a759c34
+      Radius: 31.17
+      Strength: 956
+      Velocity: {
+        X: 46.84
+        Y: -63.54
+      }
+      X: 3853
+      Y: 8103
+    }
+    {
+      EffectiveRadius: 1046.55
+      Id: 9b1449e1-c498-4e73-938e-028f50e5e4e7
+      Radius: 31.8
+      Strength: 1083
+      Velocity: {
+        X: -0.54
+        Y: -51.21
+      }
+      X: 2959
+      Y: -741
+    }
+    {
+      EffectiveRadius: 1601.79
+      Id: 51f44b26-3897-4526-b606-622ba415d90b
+      Radius: 52.95
+      Strength: 915
+      Velocity: {
+        X: -15.66
+        Y: 55.19
+      }
+      X: 928
+      Y: 9660
+    }
+    {
+      EffectiveRadius: 1204.89
+      Id: fe240d23-9581-430e-ab23-3888a0e1943f
+      Radius: 37.67
+      Strength: -1023
+      Velocity: {
+        X: -45.01
+        Y: 37.1
+      }
+      X: 7369
+      Y: 4592
+    }
+    {
+      EffectiveRadius: 1258.96
+      Id: c1356964-6c15-49f6-93f1-22177ad87e99
+      Radius: 38.72
+      Strength: -1057
+      Velocity: {
+        X: -42.55
+        Y: -67.75
+      }
+      X: 300
+      Y: 2314
+    }
+    {
+      EffectiveRadius: 1218.26
+      Id: f745331b-2dc6-447b-b858-4a51e23a589b
+      Radius: 39.67
+      Strength: -943
+      Velocity: {
+        X: 76.49
+        Y: -23.44
+      }
+      X: 7505
+      Y: 2648
+    }
+    {
+      EffectiveRadius: 1377.55
+      Id: 0f0f3af5-5275-41d5-818c-6aa687f91ed9
+      Radius: 43.83
+      Strength: -988
+      Velocity: {
+        X: 73.19
+        Y: 15.22
+      }
+      X: 5145
+      Y: 7080
+    }
+    {
+      EffectiveRadius: 1428.17
+      Id: db6c90c1-30d2-4ed9-9178-ae2cd2ee21df
+      Radius: 45.01
+      Strength: -1007
+      Velocity: {
+        X: 40.94
+        Y: 68.73
+      }
+      X: 8806
+      Y: 5091
+    }
+    {
+      EffectiveRadius: 1715.82
+      Id: 0b1d0f97-ed55-471a-a2bc-676b9b7507b2
+      Radius: 54.62
+      Strength: 987
+      Velocity: {
+        X: 64.04
+        Y: -33.45
+      }
+      X: 3218
+      Y: 2709
+    }
+    {
+      EffectiveRadius: 1597.34
+      Id: 8e8fb5f4-2543-446b-9f23-73a666401fdc
+      Radius: 48.99
+      Strength: 1063
+      Velocity: {
+        X: -58.15
+        Y: 54.95
+      }
+      X: 9411
+      Y: 7574
+    }
+    {
+      EffectiveRadius: 1859.6
+      Id: 4bc8dd49-c279-4b66-97db-3d5ee4248d01
+      Radius: 57.5
+      Strength: 1046
+      Velocity: {
+        X: -38.63
+        Y: 70.05
+      }
+      X: 1166
+      Y: 4977
+    }
+    {
+      EffectiveRadius: 3329.28
+      Id: 034d8064-2f8d-486c-8465-809d7cb30ca2
+      Radius: 53.23
+      Strength: -3912
+      Velocity: {
+        X: 44.11
+        Y: -44.37
+      }
+      X: 10320
+      Y: 6211
+    }
+    {
+      EffectiveRadius: 1825.47
+      Id: bd19b578-b005-4635-863d-5422a4435747
+      Radius: 56.63
+      Strength: -1039
+      Velocity: {
+        X: -58.53
+        Y: 48.46
+      }
+      X: 6799
+      Y: 8805
+    }
+    {
+      EffectiveRadius: 1770.83
+      Id: afddb20e-60b6-42a5-91ff-cb03a16ca51e
+      Radius: 54.16
+      Strength: -1069
+      Velocity: {
+        X: 23.22
+        Y: 51.5
+      }
+      X: 10125
+      Y: 8778
+    }
+    {
+      EffectiveRadius: 1732.07
+      Id: a4cf39fd-d2db-47ba-bfe5-b23bae6f9379
+      Radius: 56.46
+      Strength: -941
+      Velocity: {
+        X: -51.27
+        Y: -58.72
+      }
+      X: -45
+      Y: 5424
+    }
+    {
+      EffectiveRadius: 1645.94
+      Id: 1c03f479-efaa-4f77-9af2-5f087f172dc8
+      Radius: 49.74
+      Strength: -1095
+      Velocity: {
+        X: 50.5
+        Y: 62.04
+      }
+      X: 3526
+      Y: -341
+    }
+    {
+      EffectiveRadius: 1062.44
+      Id: e5e214f1-3713-4669-a296-8fc238fc05b3
+      Radius: 35.1
+      Strength: -916
+      Velocity: {
+        X: -49.25
+        Y: -50.44
+      }
+      X: 5386
+      Y: 9375
+    }
+  ]
+  AttackCooldownMs: 10000
+  AttackDamage: 30
+  AttackExplosionRadius: 30
+  AttackRange: 200
+  Bounties: [
+    {
+      Points: 11
+      Radius: 5
+      X: 8594
+      Y: 2419
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8795
+      Y: 2480
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4184
+      Y: 8072
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4241
+      Y: 8227
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4393
+      Y: 8070
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8407
+      Y: 2172
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 3927
+      Y: 7969
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8464
+      Y: 2012
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 3982
+      Y: 8036
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8900
+      Y: 2165
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3661
+      Y: 8044
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 3751
+      Y: 7540
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4197
+      Y: 8272
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 7433
+      Y: 6597
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8711
+      Y: 2163
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7643
+      Y: 6473
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4443
+      Y: 8202
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 3672
+      Y: 7645
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 1859
+      Y: 2601
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 3793
+      Y: 7908
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8465
+      Y: 2326
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8468
+      Y: 2516
+    }
+    {
+      Points: 37
+      Radius: 5
+      X: 1912
+      Y: 2614
+    }
+    {
+      Points: 41
+      Radius: 5
+      X: 2140
+      Y: 2409
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8176
+      Y: 2199
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 7764
+      Y: 5989
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8886
+      Y: 2672
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 4463
+      Y: 7579
+    }
+    {
+      Points: 48
+      Radius: 5
+      X: 4422
+      Y: 7582
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8861
+      Y: 2225
+    }
+    {
+      Points: 28
+      Radius: 5
+      X: 4175
+      Y: 7910
+    }
+    {
+      Points: 63
+      Radius: 5
+      X: 2595
+      Y: 3175
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 8402
+      Y: 2045
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8555
+      Y: 2361
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8411
+      Y: 2268
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 4363
+      Y: 8240
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 1935
+      Y: 3132
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4374
+      Y: 8057
+    }
+    {
+      Points: 44
+      Radius: 5
+      X: 3675
+      Y: 7655
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 2638
+      Y: 2455
+    }
+    {
+      Points: 47
+      Radius: 5
+      X: 1895
+      Y: 2869
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 2396
+      Y: 2691
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 4075
+      Y: 7827
+    }
+    {
+      Points: 47
+      Radius: 5
+      X: 2423
+      Y: 2858
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8489
+      Y: 2195
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8473
+      Y: 2611
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8794
+      Y: 2447
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2391
+      Y: 2624
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8671
+      Y: 1989
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 4249
+      Y: 7749
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 1861
+      Y: 2775
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8619
+      Y: 2033
+    }
+    {
+      Points: 46
+      Radius: 5
+      X: 2539
+      Y: 2669
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8829
+      Y: 2647
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 4087
+      Y: 7899
+    }
+    {
+      Points: 50
+      Radius: 5
+      X: 2608
+      Y: 3213
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8483
+      Y: 2420
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3703
+      Y: 8315
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4289
+      Y: 8227
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 8858
+      Y: 2104
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8351
+      Y: 2611
+    }
+    {
+      Points: 33
+      Radius: 5
+      X: 2430
+      Y: 3040
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2188
+      Y: 2939
+    }
+    {
+      Points: 30
+      Radius: 5
+      X: 4063
+      Y: 7725
+    }
+    {
+      Points: 33
+      Radius: 5
+      X: 3926
+      Y: 7614
+    }
+    {
+      Points: 3
+      Radius: 5
+      X: 8787
+      Y: 1876
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 4384
+      Y: 7678
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8274
+      Y: 2373
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8303
+      Y: 1865
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 7478
+      Y: 6105
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4222
+      Y: 7901
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7764
+      Y: 6291
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8630
+      Y: 2610
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8757
+      Y: 2466
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 4272
+      Y: 7626
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8128
+      Y: 2390
+    }
+    {
+      Points: 39
+      Radius: 5
+      X: 4000
+      Y: 7907
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 3662
+      Y: 8049
+    }
+    {
+      Points: 38
+      Radius: 5
+      X: 2030
+      Y: 3271
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8789
+      Y: 1992
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 3903
+      Y: 8127
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8142
+      Y: 1950
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 8819
+      Y: 2384
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 7704
+      Y: 6308
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8331
+      Y: 2159
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 4254
+      Y: 7999
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8860
+      Y: 1875
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8829
+      Y: 2594
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8393
+      Y: 1876
+    }
+    {
+      Points: 36
+      Radius: 5
+      X: 4085
+      Y: 7787
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 3630
+      Y: 8210
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 4045
+      Y: 7897
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4021
+      Y: 8390
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8508
+      Y: 2169
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 7523
+      Y: 5756
+    }
+    {
+      Points: 20
+      Radius: 5
+      X: 1810
+      Y: 3050
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4109
+      Y: 8279
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8396
+      Y: 1888
+    }
+    {
+      Points: 24
+      Radius: 5
+      X: 3794
+      Y: 8250
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 3605
+      Y: 7916
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4412
+      Y: 8385
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8374
+      Y: 2023
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8861
+      Y: 2362
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 4351
+      Y: 8291
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8351
+      Y: 2025
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8586
+      Y: 2233
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 8617
+      Y: 2479
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8750
+      Y: 2393
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 3667
+      Y: 8340
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8543
+      Y: 2042
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8537
+      Y: 1851
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 4398
+      Y: 8081
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8424
+      Y: 2446
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8643
+      Y: 1984
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8675
+      Y: 2125
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8858
+      Y: 2172
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8597
+      Y: 2699
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 1857
+      Y: 3123
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8821
+      Y: 2527
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4106
+      Y: 8146
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 4020
+      Y: 8367
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8557
+      Y: 2322
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4008
+      Y: 7820
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4054
+      Y: 8103
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8708
+      Y: 2356
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7552
+      Y: 6588
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8531
+      Y: 1923
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 7771
+      Y: 5764
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2153
+      Y: 2487
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 3612
+      Y: 7692
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3701
+      Y: 8294
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8641
+      Y: 2151
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 8427
+      Y: 2649
+    }
+    {
+      Points: 52
+      Radius: 5
+      X: 2083
+      Y: 3026
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 7535
+      Y: 6569
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8237
+      Y: 2182
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8366
+      Y: 2167
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8605
+      Y: 2446
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4079
+      Y: 8125
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 1815
+      Y: 2788
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 1854
+      Y: 2882
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8417
+      Y: 1803
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8461
+      Y: 1982
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 2243
+      Y: 2932
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 3888
+      Y: 8361
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7772
+      Y: 6241
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4352
+      Y: 7753
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3609
+      Y: 8205
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 3636
+      Y: 8189
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 4035
+      Y: 7834
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8498
+      Y: 2174
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8821
+      Y: 2070
+    }
+    {
+      Points: 26
+      Radius: 5
+      X: 3673
+      Y: 8308
+    }
+    {
+      Points: 30
+      Radius: 5
+      X: 3636
+      Y: 7968
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 2476
+      Y: 2416
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 8107
+      Y: 2163
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8548
+      Y: 2380
+    }
+    {
+      Points: 24
+      Radius: 5
+      X: 2643
+      Y: 2901
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8149
+      Y: 2088
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 3630
+      Y: 8024
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8357
+      Y: 2673
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 1954
+      Y: 3094
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8245
+      Y: 2232
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8832
+      Y: 2547
+    }
+    {
+      Points: 39
+      Radius: 5
+      X: 7667
+      Y: 5881
+    }
+    {
+      Points: 34
+      Radius: 5
+      X: 3715
+      Y: 7970
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 3891
+      Y: 8287
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 8147
+      Y: 2476
+    }
+    {
+      Points: 42
+      Radius: 5
+      X: 3787
+      Y: 7534
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8101
+      Y: 2467
+    }
+    {
+      Points: 22
+      Radius: 5
+      X: 4331
+      Y: 7970
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 8145
+      Y: 2697
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 4474
+      Y: 7713
+    }
+    {
+      Points: 20
+      Radius: 5
+      X: 4265
+      Y: 8378
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 3988
+      Y: 7784
+    }
+    {
+      Points: 27
+      Radius: 5
+      X: 4429
+      Y: 7931
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 2465
+      Y: 3156
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4370
+      Y: 8368
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 3991
+      Y: 7715
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 1953
+      Y: 2884
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8508
+      Y: 2144
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4097
+      Y: 8110
+    }
+    {
+      Points: 34
+      Radius: 5
+      X: 3941
+      Y: 8129
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 8430
+      Y: 2011
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 2499
+      Y: 3229
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8900
+      Y: 1970
+    }
+    {
+      Points: 28
+      Radius: 5
+      X: 3787
+      Y: 7812
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4311
+      Y: 8173
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4318
+      Y: 7895
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4089
+      Y: 8337
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 2387
+      Y: 2629
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4415
+      Y: 8306
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8244
+      Y: 2389
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8808
+      Y: 2326
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 1850
+      Y: 2777
+    }
+    {
+      Points: 3
+      Radius: 5
+      X: 8856
+      Y: 1827
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8276
+      Y: 2055
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8862
+      Y: 1925
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8584
+      Y: 2072
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8609
+      Y: 2696
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8893
+      Y: 2382
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 8201
+      Y: 2476
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 8872
+      Y: 2052
+    }
+    {
+      Points: 122
+      Radius: 5
+      X: 5092
+      Y: 4115
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 8130
+      Y: 1905
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4304
+      Y: 8271
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 4289
+      Y: 7898
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4129
+      Y: 8083
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8287
+      Y: 2532
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8700
+      Y: 2085
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 3897
+      Y: 7990
+    }
+    {
+      Points: 42
+      Radius: 5
+      X: 3747
+      Y: 7548
+    }
+    {
+      Points: 65
+      Radius: 5
+      X: 2698
+      Y: 2890
+    }
+    {
+      Points: 20
+      Radius: 5
+      X: 2208
+      Y: 3019
+    }
+    {
+      Points: 41
+      Radius: 5
+      X: 1995
+      Y: 3024
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 1812
+      Y: 2671
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8846
+      Y: 2053
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8706
+      Y: 2616
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 7720
+      Y: 5827
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8500
+      Y: 1951
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8838
+      Y: 2003
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8609
+      Y: 2637
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8884
+      Y: 2489
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8455
+      Y: 2034
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4072
+      Y: 8222
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 2208
+      Y: 3051
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8401
+      Y: 2601
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8857
+      Y: 2444
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3813
+      Y: 8181
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8322
+      Y: 2398
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8653
+      Y: 2169
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8320
+      Y: 2516
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8650
+      Y: 2086
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 3901
+      Y: 7737
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8520
+      Y: 1892
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8477
+      Y: 2474
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8539
+      Y: 2340
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 4236
+      Y: 7508
+    }
+    {
+      Points: 30
+      Radius: 5
+      X: 3857
+      Y: 8187
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 1865
+      Y: 2852
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 1848
+      Y: 2720
+    }
+    {
+      Points: 65
+      Radius: 5
+      X: 2578
+      Y: 3276
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8877
+      Y: 1851
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 7786
+      Y: 5893
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8128
+      Y: 2246
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8651
+      Y: 2607
+    }
+    {
+      Points: 63
+      Radius: 5
+      X: 2562
+      Y: 3001
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 1808
+      Y: 3058
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2297
+      Y: 3006
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8208
+      Y: 2608
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8111
+      Y: 2570
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8709
+      Y: 2633
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8431
+      Y: 2075
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8633
+      Y: 2674
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 7665
+      Y: 5701
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 3752
+      Y: 7798
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 3658
+      Y: 7753
+    }
+    {
+      Points: 33
+      Radius: 5
+      X: 7528
+      Y: 6265
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8436
+      Y: 2579
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 3902
+      Y: 8345
+    }
+    {
+      Points: 40
+      Radius: 5
+      X: 4069
+      Y: 7733
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8660
+      Y: 1981
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8642
+      Y: 1920
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8232
+      Y: 2376
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8408
+      Y: 2229
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 3933
+      Y: 7809
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8708
+      Y: 2174
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 4255
+      Y: 8383
+    }
+    {
+      Points: 34
+      Radius: 5
+      X: 4200
+      Y: 7909
+    }
+    {
+      Points: 40
+      Radius: 5
+      X: 2568
+      Y: 3057
+    }
+    {
+      Points: 57
+      Radius: 5
+      X: 2648
+      Y: 2714
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8334
+      Y: 1986
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8229
+      Y: 2503
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8718
+      Y: 2495
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8832
+      Y: 2206
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4296
+      Y: 8063
+    }
+    {
+      Points: 18
+      Radius: 5
+      X: 2273
+      Y: 2480
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 8122
+      Y: 1818
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 3990
+      Y: 8399
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8347
+      Y: 1979
+    }
+    {
+      Points: 26
+      Radius: 5
+      X: 3923
+      Y: 8332
+    }
+    {
+      Points: 43
+      Radius: 5
+      X: 1930
+      Y: 2610
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3736
+      Y: 8208
+    }
+    {
+      Points: 39
+      Radius: 5
+      X: 1861
+      Y: 2783
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 7528
+      Y: 6530
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3988
+      Y: 8003
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8565
+      Y: 2677
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8822
+      Y: 2049
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8611
+      Y: 2524
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 7750
+      Y: 6588
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 4310
+      Y: 8135
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8477
+      Y: 2149
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 3775
+      Y: 7805
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 3749
+      Y: 8091
+    }
+    {
+      Points: 54
+      Radius: 5
+      X: 2098
+      Y: 3285
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 2031
+      Y: 2417
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 2338
+      Y: 3091
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8541
+      Y: 2074
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8610
+      Y: 2066
+    }
+    {
+      Points: 29
+      Radius: 5
+      X: 3999
+      Y: 8270
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8258
+      Y: 2081
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 3733
+      Y: 8399
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 3845
+      Y: 8009
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2370
+      Y: 2903
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 7659
+      Y: 6234
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 8413
+      Y: 2692
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4265
+      Y: 8340
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 7441
+      Y: 6484
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8595
+      Y: 2020
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8732
+      Y: 2402
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8225
+      Y: 2111
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8612
+      Y: 2432
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 4413
+      Y: 8333
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8592
+      Y: 2227
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 1812
+      Y: 2572
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3882
+      Y: 8193
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8649
+      Y: 2135
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8413
+      Y: 2635
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8814
+      Y: 2406
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 3967
+      Y: 8195
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8448
+      Y: 1975
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7352
+      Y: 6481
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 7545
+      Y: 6587
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8348
+      Y: 2648
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 8246
+      Y: 1978
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8352
+      Y: 2198
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4212
+      Y: 8205
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 2401
+      Y: 2608
+    }
+    {
+      Points: 41
+      Radius: 5
+      X: 7642
+      Y: 5739
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 2261
+      Y: 3125
+    }
+    {
+      Points: 47
+      Radius: 5
+      X: 2263
+      Y: 3123
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 7676
+      Y: 6482
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3720
+      Y: 7958
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8536
+      Y: 2212
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 8275
+      Y: 2053
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8647
+      Y: 1821
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8488
+      Y: 2327
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 8210
+      Y: 2206
+    }
+    {
+      Points: 45
+      Radius: 5
+      X: 3829
+      Y: 7543
+    }
+    {
+      Points: 16
+      Radius: 5
+      X: 8481
+      Y: 2470
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8480
+      Y: 1884
+    }
+    {
+      Points: 8
+      Radius: 5
+      X: 8690
+      Y: 1940
+    }
+    {
+      Points: 43
+      Radius: 5
+      X: 3685
+      Y: 7666
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 7791
+      Y: 5985
+    }
+    {
+      Points: 19
+      Radius: 5
+      X: 1967
+      Y: 3253
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8385
+      Y: 1924
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 4467
+      Y: 8241
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8291
+      Y: 2364
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 3651
+      Y: 7824
+    }
+    {
+      Points: 109
+      Radius: 5
+      X: 5327
+      Y: 3683
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 7773
+      Y: 6309
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 3895
+      Y: 8010
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8365
+      Y: 1972
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 8572
+      Y: 2349
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8722
+      Y: 2430
+    }
+    {
+      Points: 28
+      Radius: 5
+      X: 3867
+      Y: 7979
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8262
+      Y: 2346
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 8657
+      Y: 2133
+    }
+    {
+      Points: 30
+      Radius: 5
+      X: 4119
+      Y: 7891
+    }
+    {
+      Points: 25
+      Radius: 5
+      X: 3689
+      Y: 8005
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4462
+      Y: 8131
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 3754
+      Y: 8317
+    }
+    {
+      Points: 23
+      Radius: 5
+      X: 3659
+      Y: 8218
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8596
+      Y: 2099
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4392
+      Y: 7702
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 8225
+      Y: 2082
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4309
+      Y: 8089
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8673
+      Y: 2451
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8855
+      Y: 1967
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 4085
+      Y: 8323
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8159
+      Y: 2035
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8227
+      Y: 1886
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 7630
+      Y: 6451
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8298
+      Y: 2374
+    }
+    {
+      Points: 25
+      Radius: 5
+      X: 4408
+      Y: 8074
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8827
+      Y: 2600
+    }
+    {
+      Points: 41
+      Radius: 5
+      X: 2535
+      Y: 2905
+    }
+    {
+      Points: 33
+      Radius: 5
+      X: 3950
+      Y: 7711
+    }
+    {
+      Points: 25
+      Radius: 5
+      X: 3689
+      Y: 8019
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4294
+      Y: 8190
+    }
+    {
+      Points: 22
+      Radius: 5
+      X: 2412
+      Y: 3229
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8611
+      Y: 2050
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8126
+      Y: 2655
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8197
+      Y: 1852
+    }
+    {
+      Points: 116
+      Radius: 5
+      X: 4849
+      Y: 3689
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 3693
+      Y: 7905
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4231
+      Y: 7871
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8572
+      Y: 2617
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8626
+      Y: 2681
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 4077
+      Y: 7648
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 8648
+      Y: 2012
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 8521
+      Y: 2361
+    }
+    {
+      Points: 4
+      Radius: 5
+      X: 8851
+      Y: 2100
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7766
+      Y: 6420
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 7632
+      Y: 6516
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8468
+      Y: 2099
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8508
+      Y: 2171
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 4296
+      Y: 8016
+    }
+    {
+      Points: 6
+      Radius: 5
+      X: 8590
+      Y: 2524
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8743
+      Y: 2489
+    }
+    {
+      Points: 12
+      Radius: 5
+      X: 4257
+      Y: 8138
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8350
+      Y: 1932
+    }
+    {
+      Points: 10
+      Radius: 5
+      X: 8473
+      Y: 1944
+    }
+    {
+      Points: 38
+      Radius: 5
+      X: 3765
+      Y: 7624
+    }
+    {
+      Points: 32
+      Radius: 5
+      X: 4068
+      Y: 7969
+    }
+    {
+      Points: 113
+      Radius: 5
+      X: 4896
+      Y: 3655
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 3789
+      Y: 7982
+    }
+    {
+      Points: 31
+      Radius: 5
+      X: 3782
+      Y: 7831
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 8393
+      Y: 2155
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4230
+      Y: 7892
+    }
+    {
+      Points: 21
+      Radius: 5
+      X: 8385
+      Y: 2475
+    }
+    {
+      Points: 66
+      Radius: 5
+      X: 2494
+      Y: 3231
+    }
+    {
+      Points: 30
+      Radius: 5
+      X: 3674
+      Y: 8262
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8362
+      Y: 1941
+    }
+    {
+      Points: 7
+      Radius: 5
+      X: 8143
+      Y: 2199
+    }
+    {
+      Points: 37
+      Radius: 5
+      X: 3766
+      Y: 7667
+    }
+    {
+      Points: 20
+      Radius: 5
+      X: 2507
+      Y: 2593
+    }
+    {
+      Points: 15
+      Radius: 5
+      X: 4116
+      Y: 8397
+    }
+    {
+      Points: 28
+      Radius: 5
+      X: 3743
+      Y: 7976
+    }
+    {
+      Points: 5
+      Radius: 5
+      X: 8534
+      Y: 1999
+    }
+    {
+      Points: 58
+      Radius: 5
+      X: 2101
+      Y: 3176
+    }
+    {
+      Points: 41
+      Radius: 5
+      X: 2438
+      Y: 3181
+    }
+    {
+      Points: 9
+      Radius: 5
+      X: 4049
+      Y: 8379
+    }
+    {
+      Points: 35
+      Radius: 5
+      X: 4344
+      Y: 7936
+    }
+    {
+      Points: 28
+      Radius: 5
+      X: 3655
+      Y: 7715
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 1871
+      Y: 2633
+    }
+    {
+      Points: 14
+      Radius: 5
+      X: 3716
+      Y: 7900
+    }
+    {
+      Points: 11
+      Radius: 5
+      X: 8620
+      Y: 2072
+    }
+    {
+      Points: 40
+      Radius: 5
+      X: 3730
+      Y: 7597
+    }
+    {
+      Points: 17
+      Radius: 5
+      X: 1818
+      Y: 2835
+    }
+    {
+      Points: 13
+      Radius: 5
+      X: 3774
+      Y: 8094
+    }
+  ]
+  Enemies: [
+    {
+      Health: 100
+      KillBounty: 934
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: -100.39
+        Y: 44.97
+      }
+      X: 5194
+      Y: 3949
+    }
+  ]
+  MapSize: {
+    X: 9000
+    Y: 9000
+  }
+  MaxAccel: 40
+  MaxSpeed: 110
+  Name: Humongous
+  Badonkers
+  Points: 4609
+  ReviveTimeoutSec: 2
+  ShieldCooldownMs: 40000
+  ShieldTimeMs: 5000
+  TransportRadius: 5
+  Transports: [
+    {
+      AnomalyAcceleration: {
+        X: 3.51
+        Y: 2.62
+      }
+      AttackCooldownMs: 0
+      DeathCount: 8
+      Health: 70
+      Id: ebea321dd704bda32e516d4291fd0cda534723ba
+      SelfAcceleration: {
+        X: 37.19842880695726
+        Y: -14.706355574843567
+      }
+      ShieldCooldownMs: 0
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: 2.51
+        Y: -25.71
+      }
+      X: 5053
+      Y: 4152
+    }
+    {
+      AnomalyAcceleration: {
+        X: -4.21
+        Y: 3.73
+      }
+      AttackCooldownMs: 0
+      DeathCount: 3
+      Health: 100
+      Id: e39b08481c694677b8c478ba25aa16d3f65ffe9d
+      SelfAcceleration: {
+        X: 39.27119402361126
+        Y: 7.600876262634436
+      }
+      ShieldCooldownMs: 2400
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: -49.67
+        Y: 3.34
+      }
+      X: 4132
+      Y: 7801
+    }
+    {
+      AnomalyAcceleration: {
+        X: 0.7
+        Y: 0.1
+      }
+      AttackCooldownMs: 0
+      DeathCount: 5
+      Health: 100
+      Id: 2785d3c89df2e9c8bcaa2c3825668210996989d5
+      SelfAcceleration: {
+        X: -24.557624540596816
+        Y: 31.574088695053046
+      }
+      ShieldCooldownMs: 0
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: -6.01
+        Y: 24.77
+      }
+      X: 2253
+      Y: 2884
+    }
+    {
+      AnomalyAcceleration: {
+        X: 3.92
+        Y: 8.35
+      }
+      AttackCooldownMs: 0
+      DeathCount: 4
+      Health: 100
+      Id: 870b1b1d5a205e930cbc88b72ef4f9265211da05
+      SelfAcceleration: {
+        X: 34.61705141924505
+        Y: 20.041450821668185
+      }
+      ShieldCooldownMs: 0
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: 4.3
+        Y: -7.97
+      }
+      X: 8694
+      Y: 2122
+    }
+    {
+      AnomalyAcceleration: {
+        X: -1.56
+        Y: -2.12
+      }
+      AttackCooldownMs: 0
+      DeathCount: 6
+      Health: 100
+      Id: c575809b69b4240eed35d3ae860167e463fc83bc
+      SelfAcceleration: {
+        X: 24.652330466324425
+        Y: 31.500200040303433
+      }
+      ShieldCooldownMs: 0
+      ShieldLeftMs: 0
+      Status: alive
+      Velocity: {
+        X: 12.88
+        Y: -25.12
+      }
+      X: 7457
+      Y: 6119
+    }
+  ]
+  WantedList: []
+}
