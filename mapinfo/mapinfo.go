@@ -400,16 +400,23 @@ func (r *Mapinfo) Loop() {
 			client.c.CloseNow()
 		}
 	}()
+	var closed []int
 	for {
+		closed = []int{}
 		r.UpdateRounds()
 		//r.Update()
 		r.RandomMoves()
-		for _, client := range r.clients {
+		for i, client := range r.clients {
 			err := wsjson.Write(client.ctx, client.c, r.curMap)
 			if err != nil {
-				panic(err)
+				closed = append(closed, i)
 			}
 		}
+
+		for num, i := range closed {
+			r.clients = append(r.clients[:i-num], r.clients[i+1-num:]...)
+		}
+
 		time.Sleep(time.Second / 3)
 	}
 }
