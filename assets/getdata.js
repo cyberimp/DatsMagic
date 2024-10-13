@@ -52,6 +52,7 @@ let anomalies = [];
 
 
 let bounties = [];
+let pilots = [];
 
 mapSocket.onmessage = (event) => {
 
@@ -174,4 +175,57 @@ mapSocket.onmessage = (event) => {
             }
         }
     )
+
+    pilots = pilots.filter(
+        (item) => {
+            let notFound = true
+            map.transports.forEach(
+                (carpet) => {
+                    if (item.id === carpet.id) {
+                        notFound = false
+                    }
+                }
+            )
+
+            if (notFound) {
+                item.image.parentElement.removeChild(item.image)
+            }
+
+            return !notFound;
+        }
+    )
+
+    map.transports.forEach(
+        (item) => {
+            let index = -1
+            pilots.forEach(
+                (pilot, i) => {
+                    if (item.id === pilot.id) {
+                        index = i
+                    }
+                }
+            )
+
+            if (index < 0) {
+                const img = new Image(5,5);
+                img.src = "pilot.gif"
+                img.style.position = "absolute"
+                img.style.top = item.y - 2.5 + "px"
+                img.style.left = item.x - 2.5 + "px"
+                document.body.appendChild(img);
+
+                let pilot = {
+                    id: item.id,
+                    image: img,
+                }
+
+                pilots.push(pilot)
+            }else {
+                pilots[index].image.style.top = item.y - 2.5 + "px"
+                pilots[index].image.style.left = item.x - 2.5 + "px"
+            }
+
+        }
+    )
+
 }

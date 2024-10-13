@@ -10,6 +10,7 @@ import (
 	"math"
 	"math/rand/v2"
 	"net/http"
+	"sort"
 	"time"
 )
 
@@ -155,7 +156,7 @@ func (r *Mapinfo) RandomMoves() {
 	for _, carpet := range r.curMap.Transports {
 		if carpet.Status == "alive" {
 			minRange := math.MaxInt
-			closest := 0
+			closest := -1
 			for i, bounty := range r.curMap.Bounties {
 				diff := (bounty.X-carpet.X)*(bounty.X-carpet.X) + (bounty.Y-carpet.Y)*(bounty.Y-carpet.Y)
 				if diff < minRange {
@@ -192,13 +193,19 @@ func (r *Mapinfo) RandomMoves() {
 				}
 			}
 
-			bounty := r.curMap.Bounties[closest]
-			acc := Vector{float64(bounty.X - int(carpet.Velocity.X*3) - carpet.X), float64(bounty.Y - int(carpet.Velocity.Y*3) - carpet.Y)}
+			acc := Vector{1, 1}
+			if closest >= 0 {
+				bounty := r.curMap.Bounties[closest]
+				acc = Vector{float64(bounty.X - int(carpet.Velocity.X*3) - carpet.X), float64(bounty.Y - int(carpet.Velocity.Y*3) - carpet.Y)}
+			}
+
 			maxAcc := r.curMap.MaxAccel
 			length := math.Sqrt(acc.X*acc.X + acc.Y*acc.Y)
 
 			acc.X = acc.X * (maxAcc / length)
 			acc.Y = acc.Y * (maxAcc / length)
+
+			//dangers := r.closestDangers(&carpet)
 
 			fmt.Println(acc)
 			newTransport := CommandTransport{
@@ -251,6 +258,66 @@ func (r *Mapinfo) RandomMoves() {
 		fmt.Printf("now:%v\n", r.nowRound)
 	}
 
+}
+
+func (r *Mapinfo) closestDangers(carpet *Transport) []*Danger {
+	// Initialize the closest dangers and distances
+	closestDangers := make([]*Danger, 0)
+	closestDistances := make([]float64, 0)
+
+	distanceToBorder := float64(r.curMap.TransportRadius - carpet.X)
+	closestDangers = append(closestDangers, &Danger{Type: "screen border", X: 0, Y: carpet.Y})
+	closestDistances = append(closestDistances, distanceToBorder)
+
+	distanceToBorder = float64(carpet.X + r.curMap.TransportRadius - r.curMap.MapSize.X)
+	closestDangers = append(closestDangers, &Danger{Type: "screen border", X: r.curMap.MapSize.X, Y: carpet.Y})
+	closestDistances = append(closestDistances, distanceToBorder)
+
+	distanceToBorder = float64(r.curMap.TransportRadius - carpet.Y)
+	closestDangers = append(closestDangers, &Danger{Type: "screen border", X: carpet.X, Y: 0})
+	closestDistances = append(closestDistances, distanceToBorder)
+
+	distanceToBorder = float64(carpet.Y + r.curMap.TransportRadius - r.curMap.MapSize.Y)
+	closestDangers = append(closestDangers, &Danger{Type: "screen border", X: carpet.X, Y: r.curMap.MapSize.Y})
+	closestDistances = append(closestDistances, distanceToBorder)
+
+	// Check anomalies
+	for _, anomaly := range r.curMap.Anomalies {
+		distance := math.Sqrt(float64((anomaly.X-carpet.X)*(anomaly.X-carpet.X) + (anomaly.Y-carpet.Y)*(anomaly.Y-carpet.Y)))
+		closestDangers = append(closestDangers, &Danger{Type: "anomaly", X: anomaly.X, Y: anomaly.Y})
+		closestDistances = append(closestDistances, distance)
+	}
+
+	// Check enemies
+	for _, enemy := range r.curMap.Enemies {
+		distance := math.Sqrt(float64((enemy.X-carpet.X)*(enemy.X-carpet.X) + (enemy.Y-carpet.Y)*(enemy.Y-carpet.Y)))
+		closestDangers = append(closestDangers, &Danger{Type: "enemy", X: enemy.X, Y: enemy.Y})
+		closestDistances = append(closestDistances, distance)
+	}
+	for _, enemy := range r.curMap.WantedList {
+		distance := math.Sqrt(float64((enemy.X-carpet.X)*(enemy.X-carpet.X) + (enemy.Y-carpet.Y)*(enemy.Y-carpet.Y)))
+		closestDangers = append(closestDangers, &Danger{Type: "wanted enemy", X: enemy.X, Y: enemy.Y})
+		closestDistances = append(closestDistances, distance)
+	}
+
+	// Sort dangers by distance
+	sort.Slice(closestDangers, func(i, j int) bool {
+		return closestDistances[i] < closestDistances[j]
+	})
+
+	// Return the 5 closest dangers
+	if len(closestDangers) > 5 {
+		closestDangers = closestDangers[:5]
+		closestDistances = closestDistances[:5]
+	}
+
+	return closestDangers
+}
+
+type Danger struct {
+	Type string
+	X    int
+	Y    int
 }
 
 func (r *Mapinfo) GetCactus(w http.ResponseWriter, req *http.Request) {
