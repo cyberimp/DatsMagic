@@ -144,7 +144,7 @@ func (r *Mapinfo) Update() {
 	}
 }
 
-func (r *Mapinfo) RandomMoves() {
+func (r *Mapinfo) SimulateCarpetActions() {
 	const endpoint = "/play/magcarp/player/move"
 	client := &http.Client{}
 	var transport []CommandTransport
@@ -405,7 +405,7 @@ func (r *Mapinfo) Loop() {
 		closed = []int{}
 		r.UpdateRounds()
 		//r.Update()
-		r.RandomMoves()
+		r.SimulateCarpetActions()
 		for i, client := range r.clients {
 			err := wsjson.Write(client.ctx, client.c, r.curMap)
 			if err != nil {
